@@ -1,5 +1,5 @@
 # wallet
-
+git clone https://github.com/Michaelaltinsik1/Wallet-public.git
 ## Project setup
 ```
 npm install
